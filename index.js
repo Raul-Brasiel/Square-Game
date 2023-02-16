@@ -16,5 +16,3 @@ object.onclick=function(){
      }
   object.style.backgroundColor = color;
 };
-window.onload
-
