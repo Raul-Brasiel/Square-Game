@@ -1,0 +1,34 @@
+body{
+    background: rgb(2,0,36);
+}
+
+#square{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+#arena{
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    margin: auto;
+    width: 600px;
+    height: 600px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 300%;
+}
+p{
+    color: aqua;
+    text-align: center;
+    font-size: 160%;
+}
+span{
+    color: aqua;
+}
