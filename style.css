@@ -5,7 +5,7 @@ body{
 #square{
     width: 20px;
     height: 20px;
-    background-color: rgb(255, 0, 0);
+    background-color: red;
     position: relative;
     border: 1px solid white;
 }
@@ -14,8 +14,8 @@ body{
     background-color: rgb(0, 0, 0);
     border: 2px solid rgb(255, 255, 255);
     margin: auto;
-    width: 600px;
-    height: 600px;
+    width: 550px;
+    height: 550px;
 }
 
 h1{
@@ -30,4 +30,11 @@ p{
 }
 span{
     color: aqua;
+}
+#square2{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: relative;
+    border: 1px solid white;
 }
